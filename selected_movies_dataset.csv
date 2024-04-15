@@ -134,7 +134,7 @@ Chronicle,USA,37.0902,-95.7129
 Cloud Atlas,Germany,51.1657,10.4515
 Cloud Atlas,USA,37.0902,-95.7129
 Cloud Atlas,Hong Kong,22.3193,114.1694
-Cloud Atlas,Singapore, 1.3521,103.8198
+Cloud Atlas,Singapore,Â 1.3521,103.8198
 Contraband,USA,37.0902,-95.7129
 Contraband,UK,55.3781,-3.4361
 Contraband,France,46.603354,1.888334
@@ -249,7 +249,7 @@ Circumstance,Iran,32.4279,53.688
 Colombiana,France,46.603354,1.888334
 Conan the Barbarian,USA,37.0902,-95.7129
 Contagion,USA,37.0902,-95.7129
-Contagion,United Arab Emirates,23.4241, 53.8478
+Contagion,United Arab Emirates,23.4241,Â 53.8478
 Coriolanus,UK,55.3781,-3.4361
 Detention,USA,37.0902,-95.7129
 Diary of a Wimpy Kid: Rodrick Rules,USA,37.0902,-95.7129
@@ -306,7 +306,7 @@ Melancholia,Germany,51.1657,10.4515
 Midnight in Paris,Spain,40.4637,-3.7492
 Midnight in Paris,USA,37.0902,-95.7129
 Mission: Impossible - Ghost Protocol,USA,37.0902,-95.7129
-Mission: Impossible - Ghost Protocol,United Arab Emirates,23.4241, 53.8478
+Mission: Impossible - Ghost Protocol,United Arab Emirates,23.4241,Â 53.8478
 Mission: Impossible - Ghost Protocol,Czech Republic,49.8175,15.47296
 Moneyball,USA,37.0902,-95.7129
 No Strings Attached,USA,37.0902,-95.7129
@@ -346,7 +346,7 @@ The Artist,Belgium,50.5039,4.4699
 The Artist,USA,37.0902,-95.7129
 The Best Exotic Marigold Hotel,UK,55.3781,-3.4361
 The Best Exotic Marigold Hotel,USA,37.0902,-95.7129
-The Best Exotic Marigold Hotel,United Arab Emirates,23.4241, 53.8478
+The Best Exotic Marigold Hotel,United Arab Emirates,23.4241,Â 53.8478
 The Darkest Hour,USA,37.0902,-95.7129
 The Divide,Germany,51.1657,10.4515
 The Divide,USA,37.0902,-95.7129
@@ -360,7 +360,7 @@ The Green Hornet,USA,37.0902,-95.7129
 The Guard,Ireland,53.1424,-7.6921
 The Help,USA,37.0902,-95.7129
 The Help,India,20.5937,78.9629
-The Help,United Arab Emirates,23.4241, 53.8478
+The Help,United Arab Emirates,23.4241,Â 53.8478
 The Iron Lady,UK,55.3781,-3.4361
 The Iron Lady,France,46.603354,1.888334
 The Lincoln Lawyer,USA,37.0902,-95.7129
@@ -425,7 +425,7 @@ Edge of Darkness,UK,55.3781,-3.4361
 Edge of Darkness,USA,37.0902,-95.7129
 Everything Must Go,USA,37.0902,-95.7129
 Fair Game,USA,37.0902,-95.7129
-Fair Game,United Arab Emirates,23.4241, 53.8478
+Fair Game,United Arab Emirates,23.4241,Â 53.8478
 Faster,USA,37.0902,-95.7129
 For Colored Girls,USA,37.0902,-95.7129
 Frozen,USA,37.0902,-95.7129
@@ -493,7 +493,7 @@ The Back-up Plan,USA,37.0902,-95.7129
 The Chronicles of Narnia: The Voyage of the Dawn Treader,USA,37.0902,-95.7129
 The Conspirator,USA,37.0902,-95.7129
 The Crazies,USA,37.0902,-95.7129
-The Crazies,United Arab Emirates,23.4241, 53.8478
+The Crazies,United Arab Emirates,23.4241,Â 53.8478
 The Debt,USA,37.0902,-95.7129
 The Debt,UK,55.3781,-3.4361
 The Debt,Hungary,47.1625,19.5033
@@ -714,7 +714,6 @@ Whip It,USA,37.0902,-95.7129
 Whiteout,USA,37.0902,-95.7129
 Whiteout,Canada,56.1304,-106.3468
 Whiteout,France,46.603354,1.888334
-Whiteout,Turkey,,
 X-Men Origins: Wolverine,USA,37.0902,-95.7129
 Youth in Revolt,USA,37.0902,-95.7129
 Zombieland,USA,37.0902,-95.7129
@@ -1224,7 +1223,7 @@ Saw II,Canada,56.1304,-106.3468
 Serenity,USA,37.0902,-95.7129
 Shopgirl,USA,37.0902,-95.7129
 Sin City,USA,37.0902,-95.7129
-Sisters in Law,Cameroon, 7.3697,12.3547
+Sisters in Law,Cameroon,Â 7.3697,12.3547
 Sisters in Law,UK,55.3781,-3.4361
 Sky High,USA,37.0902,-95.7129
 Son of the Mask,USA,37.0902,-95.7129
@@ -1689,7 +1688,6 @@ Super Troopers,USA,37.0902,-95.7129
 The Fast and the Furious,USA,37.0902,-95.7129
 The Fast and the Furious,Germany,51.1657,10.4515
 The Glass House,USA,37.0902,-95.7129
-The Legend of Suriyothai,Thailand,,
 The Lord of the Rings: The Fellowship of the Ring,New Zealand,-40.9006,174.886
 The Lord of the Rings: The Fellowship of the Ring,USA,37.0902,-95.7129
 The Majestic,USA,37.0902,-95.7129
